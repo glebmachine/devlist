@@ -25,9 +25,16 @@ Middle Frontend Developer
 - Наставничество младших разработчиков
 
 Общие знания:
-- Git
+- Git 
+    - курс 1: https://githowto.com/ru 
+    - курс 2: https://learngitbranching.js.org/
+    - видеокурс от lynda с переводом https://www.youtube.com/watch?v=GyI0T2U_vO8&list=PLpY_9m7gHQDibfa9MJfnEQd2UWI5gztp8
+    - документация, частично на русском https://git-scm.com/book/ru/v2/
 - Семантическая верстка
 - Подключение шрифтов
+    - Подключение шрифта к странице: как нужно делать сейчас. И как не нужно делать сейчас: http://nicothin.pro/page/web-fonts 
+    - Оптимизация шрифтов. Как получить наименьший размер шрифтовых файлов: http://nicothin.pro/page/webfonts-min
+    - Иконочные шрифты и почему они не нужны. Покойся с миром, технология иконочных шрифтов: http://nicothin.pro/page/icon-fonts-2017
 - Текст и типографика
 - Формы (как работают)
 - ARIA (Accessibility Rich Internet Applications)
@@ -98,6 +105,7 @@ JS
 - Webpack
 - Bazel
 - Gulp
+    - видеокурс на русском по Gulp: https://www.youtube.com/watch?v=uPk6lQoTThE&list=PLDyvV36pndZFLTE13V4qNWTZbeipNhCgQ
 
 Разобрать (куда-то добавить):
 - Адаптивные гриды (сетки)
