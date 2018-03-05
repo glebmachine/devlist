@@ -100,6 +100,9 @@ JS
 - ssr?
 - Change Detection https://angular-2-training-book.rangle.io/handout/change-detection/
 - Написать как планировать стили для компонентов (запрещено свойства макета хранить в стилях, как стилизовать сторонние либы)
+- nrwl 
+  - Дока https://nrwl.io/nx
+  - Бесплатный онлайн курс https://angularplaybook.com/p/nx-workspaces
 
 Тулинг:
 - Webpack
