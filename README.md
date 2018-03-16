@@ -55,8 +55,8 @@ JS
 - Асинхронность: Коллбэки/Промисы
 - XHR
 - Джаваскрипт машина и асинхронность 
-
-Анимации и производительность
+  - https://www.youtube.com/watch?v=8aGhZQkoFbQ - Event loop
+- Анимации и производительность
 - GSAP
 - Принципы отрисовки браузером (конвейер от html/css до изображения на экране)
 - Скорость загрузки и отрисовки: https://developers.google.com/web/fundamentals/performance/rail
